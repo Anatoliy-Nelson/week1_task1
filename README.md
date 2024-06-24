@@ -1,1 +1,2 @@
-# week1_task1
+Домашня работа, Неделя 1, верстка
+https://samurai.it-incubator.io/
